@@ -44,7 +44,7 @@ npm install
 npm start
 ```
 
-You can access the app here: [App](https://poonams-typing-lab.onrender.com/)
+You can access the app here: [App]([https://poonams-typing-lab.onrender.com/](https://poonams-typing-app.onrender.com/#/))
 
 ## Project Structure
 
