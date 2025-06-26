@@ -7,11 +7,11 @@ function Footer() {
     <footer className="w-full py-6 mt-auto bg-white dark:bg-gray-800 shadow-md backdrop-blur-sm bg-opacity-90 dark:bg-opacity-90">
       <div className="container mx-auto px-4 text-center">
         <p className="text-gray-600 dark:text-gray-300">
-          © {currentYear} Rishi Tiwari. All rights reserved.
+          © {currentYear} Poonam Singh. All rights reserved.
         </p>
         <div className="mt-2 flex justify-center space-x-4">
           <a
-            href="https://github.com/rishi-tiwari023"
+            href="https://github.com/Poonam-Singh123"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
@@ -21,7 +21,7 @@ function Footer() {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com/in/rishi-tiwari023/"
+            href="https://www.linkedin.com/in/poonam-singh023/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"

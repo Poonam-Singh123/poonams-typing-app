@@ -11,7 +11,7 @@ function Navbar({ isDarkMode, toggleDarkMode, handleClearStats }) {
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-8">
             <h1 className="text-2xl font-bold dark:text-white">
-              Rishi's Typing Lab
+              Poonam's Typing Lab
             </h1>
             <div className="flex space-x-4">
               <Link

@@ -89,7 +89,7 @@ function Progress() {
   return (
     <div className="relative">
       {/* Gradient background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 dark:from-blue-900 dark:via-purple-900 dark:to-pink-900 opacity-10 pointer-events-none" />
+      <div className="absolute inset-0 bg-gradient-to-br from-teal-400 via-indigo-500 to-rose-400 dark:from-teal-900 dark:via-indigo-900 dark:to-rose-900 opacity-10 pointer-events-none" />
       
       <div className="container mx-auto px-4 py-8 max-w-4xl relative">
         <div className="text-center mb-8">
